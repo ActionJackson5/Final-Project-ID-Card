@@ -1,0 +1,52 @@
+body{
+  background-color:#89CFF0;
+  text-align:center;
+}
+
+button{
+  text-align:center;
+  margin-bottom:100px;
+}
+
+img {
+
+width: 90px;
+
+height: 90px;
+
+float: left;
+
+}
+
+#idCard {
+
+border: 5px solid black;
+
+height: 14em;
+
+width: 25em;
+
+color:#FC33FF;
+
+display:inline-block;
+
+text-align:center;
+
+background-color:pink;
+
+border-radius:25px;
+
+font-family:'mali';
+
+}
+
+#postFullName {
+    font-size: 30px;
+}
+
+#special {
+    font-size: 15px;
+    text-align: left;
+    
+}
+
